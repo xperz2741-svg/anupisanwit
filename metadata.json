@@ -1,0 +1,6 @@
+{
+  "name": "เกมทายเงาปริศนา - Shadow Guessing Game",
+  "description": "เว็บแอปเกมการศึกษาแบบ Interactive สำหรับเด็กอนุบาล ทายภาพเงาสัตว์ สิ่งของ และธรรมชาติ เสริมสร้างทักษะการสังเกตและพัฒนาการเรียนรู้",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
